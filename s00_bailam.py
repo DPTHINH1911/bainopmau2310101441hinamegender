@@ -27,6 +27,7 @@ hi(None, None)        | Hi AI-BTX!
 #endregion debai
 
 #region bailam
-def sumtwoint(i1, i2):
-  return 'todo'
+def hi(name,gender):
+  xungho ="Ms" if gender =="f" else "Mr"
+  return "Hi "+ xungho+" "+name+"!"
 #endregion bailam
